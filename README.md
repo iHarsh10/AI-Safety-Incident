@@ -64,7 +64,7 @@ http://localhost:5173
 ## ⚠ Note
 
 - If you encounter this Error:
-![image](/frontend/src/assets/errorImg.jpg)
+![image](/frontend/src/assets/Screenshot 2025-04-27 111957.png)
 
 * Delete the node_modules folder.
 * Then run 
